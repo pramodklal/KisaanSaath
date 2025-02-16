@@ -1,0 +1,12 @@
+google-cloud-aiplatform
+pillow
+datasets
+pandas
+pypdf
+python-dotenv
+streamlit
+google-generativeai
+pytesseract
+
+
+-e.

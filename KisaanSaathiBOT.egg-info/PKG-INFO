@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: KisaanSaathiBOT
+Version: 0.0.1
+Author: Pramod
+Author-email: pramodklal@gmail.com
+Requires-Dist: google-cloud-aiplatform
+Requires-Dist: streamlit
+Requires-Dist: google-generativeai
+Requires-Dist: python-dotenv
+Requires-Dist: langchain
+Requires-Dist: PyPDF2
+Requires-Dist: chromadb
+Requires-Dist: faiss-cpu
+Requires-Dist: langchain_google_genai
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

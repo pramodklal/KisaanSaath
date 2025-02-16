@@ -1,0 +1,7 @@
+setup.py
+KisaanSaathiBOT/__init__.py
+KisaanSaathiBOT.egg-info/PKG-INFO
+KisaanSaathiBOT.egg-info/SOURCES.txt
+KisaanSaathiBOT.egg-info/dependency_links.txt
+KisaanSaathiBOT.egg-info/requires.txt
+KisaanSaathiBOT.egg-info/top_level.txt
